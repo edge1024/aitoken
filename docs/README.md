@@ -18,4 +18,4 @@
 <https://platform.openai.com/docs/pricing>
 <https://klingai.com/cn/dev/pricing>
 <https://platform.minimax.io/docs/guides/pricing-speech>
->https://platform.vidu.cn/docs/pricing>
+<https://platform.vidu.cn/docs/pricing>
