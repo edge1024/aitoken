@@ -2,19 +2,19 @@
 
 | 模型系列 | 官方账号 | 官key | 中转平台 ｜ 逆向资源 ｜ 官方文档 ｜ 备注 ｜
 |------|------|---------|------|------|---------|---------|
-Claude	0.82				Claude
-Gemini	0.65				Gemini
-Nano	0.65				Gemini
-Veo	0.65				Gemini
-GPT	0.7				OpenAI
-Sora	0.7				OpenAI
-可灵	0.7				Kling/可灵
-Kling	0.7				Kling/可灵
-Minimax	0.7				Minimax
-Vidu	0.65	0.65			Vidu
-Vidu	0.65	0.65			Vidu
-Grok	--	0.35			Grok 
-豆包-seed		0.65			火山 
+Claude	0.82				
+Gemini	0.65				
+Nano	0.65				
+Veo	0.65				
+GPT	0.7				
+Sora	0.7				
+可灵	0.7				
+Kling	0.7				
+Minimax	0.7				
+Vidu	0.65	0.65			
+Vidu	0.65	0.65			
+Grok	--	0.35			 
+豆包-seed		0.65			 
 
 ## 注意事项
 
