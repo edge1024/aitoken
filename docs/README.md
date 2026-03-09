@@ -1,4 +1,4 @@
-# AI Token 知识库
+# AI Token
 
 > 系统整理大模型 Token 相关知识，涵盖主流厂商定价、折扣方案和模型系列对比。持续更新中。
 
@@ -12,3 +12,10 @@
 
 ### [模型系列](models/)
 按系列整理各代模型的上下文窗口、Token 限制和价格变化。
+https://claude.com/pricing
+https://x.ai/api
+https://cloud.google.com/vertex-ai/generative-ai/pricing
+https://platform.openai.com/docs/pricing
+https://klingai.com/cn/dev/pricing
+https://platform.minimax.io/docs/guides/pricing-speech
+https://platform.vidu.cn/docs/pricing
