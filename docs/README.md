@@ -12,10 +12,10 @@
 
 ### [模型系列](models/)
 按系列整理各代模型的上下文窗口、Token 限制和价格变化。
-https://claude.com/pricing
-https://x.ai/api
-https://cloud.google.com/vertex-ai/generative-ai/pricing
-https://platform.openai.com/docs/pricing
-https://klingai.com/cn/dev/pricing
-https://platform.minimax.io/docs/guides/pricing-speech
-https://platform.vidu.cn/docs/pricing
+<https://claude.com/pricing>
+<https://x.ai/api>
+<https://cloud.google.com/vertex-ai/generative-ai/pricing>
+<https://platform.openai.com/docs/pricing>
+<https://klingai.com/cn/dev/pricing>
+<https://platform.minimax.io/docs/guides/pricing-speech>
+>https://platform.vidu.cn/docs/pricing>
