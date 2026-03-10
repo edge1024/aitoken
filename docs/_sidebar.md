@@ -1,12 +1,5 @@
 - [首页](/)
 
-- **模型厂商**
-  - [厂商概览](vendor/)
-  - [OpenAI](vendor/openai)
-  - [Anthropic](vendor/anthropic)
-  - [Google](vendor/google)
-  - [国内厂商](vendor/domestic)
-
 - **模型折扣**
   - [折扣概览](discount/)
   - [平台对比](discount/comparison)
@@ -18,3 +11,10 @@
   - [Claude 系列](models/claude)
   - [Gemini 系列](models/gemini)
   - [国产模型](models/domestic)
+
+- **模型厂商**
+  - [厂商概览](vendor/)
+  - [OpenAI](vendor/openai)
+  - [Anthropic](vendor/anthropic)
+  - [Google](vendor/google)
+  - [国内厂商](vendor/domestic)
