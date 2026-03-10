@@ -1,17 +1,15 @@
 # AI Token
 
-> 系统整理大模型 Token 相关知识，涵盖主流厂商定价、折扣方案和模型系列对比。持续更新中。
+## [模型折扣](discount/)
+提供官方账号，官key,中转，逆向 Token资源，找到最具性价比的调用方案。
 
-## 内容模块
+## [服务详细](T&C/)
+不同资源类型，不同交付形式的服务详情，使用方式，付款条款。
 
-### [模型折扣](discount/)
-对比各平台 Token 折扣力度，找到最具性价比的调用方案。
+##【中转平台】（platform/）
 
-### [模型厂商](vendor/)
-了解 OpenAI、Anthropic、Google 及国内主流厂商的 Token 计费规则和定价策略。
-
-### [模型系列](models/)
-按系列整理各代模型的上下文窗口、Token 限制和价格变化。<br>
+## [官方文档](models/)
+官方链接<br>
 <https://claude.com/pricing><br>
 <https://x.ai/api><br>
 <https://cloud.google.com/vertex-ai/generative-ai/pricing><br>
